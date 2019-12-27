@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Cahuella
+Type=X-GNOME-Metatheme
+Comment=There is only one
+Encoding=UTF-8
+GtkTheme=Cahuella
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

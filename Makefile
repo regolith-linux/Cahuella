@@ -1,5 +1,5 @@
 SASS=sassc
-SASSFLAGS=-M -t compact
+SASSFLAGS=-M -t compact	
 ROOT_DIR=${PWD}
 DIST_DIR=dist/Cahuella/gtk-3.0
 CSS_SRC=src/gtk-contained-dark.scss
@@ -10,6 +10,8 @@ all: clean css
 
 prepare: 
 	mkdir -p $(DIST_DIR)
+	# Stage Nordic's gtk2 theme
+	cp -r lib/Nordic/* dist/Cahuella/
 
 assets: prepare
 	$(ASSETS)
