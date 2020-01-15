@@ -1,3 +1,9 @@
+cahuella (1.0.1-1ubuntu1~ppa1) eoan; urgency=medium
+
+  * Migrate to new PPA. 
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Tue, 14 Jan 2020 20:18:05 -0800
+
 cahuella (1.0.0-1ubuntu1~ppa1) eoan; urgency=medium
 
   * Initial release
