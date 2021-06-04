@@ -1,3 +1,9 @@
+cahuella (1.0.3-1) bionic; urgency=medium
+
+  * Another package bump to appease launchpad
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Thu, 03 Jun 2021 22:33:22 -0700
+
 cahuella (1.0.2-1) eoan; urgency=medium
 
   * Package bump to appease launchpad.net. 
